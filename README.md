@@ -36,11 +36,15 @@ Réalisé dans le cadre d'un projet d'équipe en cours de Programmation.
 </p>
 
 
-2. **Conversion duree** : Une application permettant d'afficher une durée inférieure à 1 jour qui peut être exprimée soit en
+2. **Conversion durée** : Une application permettant d'afficher une durée inférieure à 1 jour qui peut être exprimée soit en
 heures, minutes et secondes, soit en secondes.
+
+🚀 Aperçu 
+<img width="382" height="244" alt="duree" src="https://github.com/user-attachments/assets/65f36b65-7905-4879-a64b-0c7f767107c8" />
+
 
 ---
 
 ### 📫 Me contacter
-- **LinkedIn :** [Lien vers ton profil]
-- **Email :** [Ton adresse email]
+- **LinkedIn :** https://www.linkedin.com/in/sylvia-rakotondrabe-13996a263/ 
+- **Email :** sysyhera@gmail.com
