@@ -30,6 +30,7 @@ Réalisé dans le cadre d'un projet d'équipe en cours de Programmation.
 
  🚀 Aperçu du jeu
 <p align="center">
+  <img width="148" height="208" alt="Capture1" src="https://github.com/user-attachments/assets/2f7aa65f-2799-4d5c-acf5-7348e0c4bd88" />
   <img width="350" height="208" alt="Capture2" src="https://github.com/user-attachments/assets/e18a1e4f-9cc0-454d-b3bb-4cc87fe73ff2" />
   <img width="350" height="208" alt="Capture5" src="https://github.com/user-attachments/assets/a1d87931-51bc-45bd-8e7f-706133582bbb" />
 </p>
