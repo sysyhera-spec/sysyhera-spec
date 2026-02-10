@@ -41,7 +41,7 @@ heures, minutes et secondes, soit en secondes.
 
 🚀 Aperçu 
 
-<img width="382" height="244" alt="duree" src="https://github.com/user-attachments/assets/65f36b65-7905-4879-a64b-0c7f767107c8" />
+<img width="350" height="200" alt="duree" src="https://github.com/user-attachments/assets/65f36b65-7905-4879-a64b-0c7f767107c8" />
 
 
 ---
