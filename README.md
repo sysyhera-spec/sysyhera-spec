@@ -30,8 +30,8 @@ Réalisé dans le cadre d'un projet d'équipe en cours de Programmation.
 
  🚀 Aperçu du jeu
 <p align="center">
-  <img width="772" height="416" alt="Capture2" src="https://github.com/user-attachments/assets/e18a1e4f-9cc0-454d-b3bb-4cc87fe73ff2" />
-  <img width="770" height="416" alt="Capture5" src="https://github.com/user-attachments/assets/a1d87931-51bc-45bd-8e7f-706133582bbb" />
+  <img width="350" height="208" alt="Capture2" src="https://github.com/user-attachments/assets/e18a1e4f-9cc0-454d-b3bb-4cc87fe73ff2" />
+  <img width="350" height="208" alt="Capture5" src="https://github.com/user-attachments/assets/a1d87931-51bc-45bd-8e7f-706133582bbb" />
 </p>
 
 
