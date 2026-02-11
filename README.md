@@ -10,9 +10,10 @@ Je suis actuellement **étudiante en MIASHS** et je recherche activement un **st
 - 🎯 Objectif : Découvrir le monde professionnel et monter en compétences sur des projets concrets.
 
 ### 💻 Mes outils & technos
-- **Langages :** Java, HTML, CSS, JavaScript, SQL
-- **Outils :** Eclipse, VS Code, GitHub, Canva
-- **En cours d'apprentissage :** PHP
+- **Langages :** Java, HTML, CSS, JavaScript, SQL, PHP, DAX
+- **Framework :** Laravel
+- **Environnements & Dev :** Eclipse, VS Code, GitHub
+- **Base de données et BI :** MySQL, SQLite, PowerBI
 
 ### 📂 Mes projets phares
 *(Ces projets sont consultables dans mes "Repositories")*
