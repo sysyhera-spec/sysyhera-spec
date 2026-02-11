@@ -12,7 +12,7 @@ Je suis actuellement **étudiante en MIASHS** et je recherche activement un **st
 ### 💻 Mes outils & technos
 - **Langages :** Java, HTML, CSS, JavaScript, SQL, PHP, DAX
 - **Framework :** Laravel
-- **Environnements & Dev :** Eclipse, VS Code, GitHub
+- **Environnements & Dev :** Eclipse, VS Code, Git, GitHub
 - **Base de données et BI :** MySQL, SQLite, PowerBI
 
 ### 📂 Mes projets phares
