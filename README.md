@@ -21,6 +21,10 @@ Forte de 7 ans d'expérience professionnelle dans la gestion et l'analyse de don
 
 ## 📂 Projets
 
+### ✈️ [Trip Planner](https://github.com/sysyhera-spec/trip-planner-laravel) — Application web de planification de voyages
+Application web full stack développée avec Laravel permettant de créer et organiser des voyages avec destinations, activités, hébergements et transports. Calcul dynamique du coût total.
+`PHP` `Laravel` `SQLite` `Blade` `MVC`
+
 ### 🎭 [MiART-Fest Manager](https://github.com/sysyhera-spec/festival-artistique-java) — Gestion d'un festival artistique itinérant
 Système logiciel complet conçu en génie logiciel avec modélisation UML et implémentation Java.
 Patterns utilisés : **Observer**, **Strategy**, **Prototype**, **Composite**.
