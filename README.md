@@ -15,7 +15,7 @@ Forte de 7 ans d'expérience professionnelle dans la gestion et l'analyse de don
 `MySQL` `SQLite` `Power BI` `DAX` `Power Query` `UML` `MCD`
 
 **Outils**
-`Git` `GitHub` `VS Code` `Eclipse` `Klaxoon`
+`Git` `GitHub` `VS Code` `Eclipse` `Klaxoon` `Linux`
 
 ---
 
