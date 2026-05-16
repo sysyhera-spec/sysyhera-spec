@@ -15,15 +15,23 @@ Forte de 7 ans d'expérience professionnelle dans la gestion et l'analyse de don
 `MySQL` `SQLite` `Power BI` `DAX` `Power Query` `UML` `MCD`
 
 **Outils**
-`Git` `GitHub` `VS Code` `Eclipse` `Klaxoon` `Linux`
+`Git` `GitHub` `VS Code` `Eclipse` `MySQL Workbench` `Klaxoon` `Linux`
 
 ---
 
 ## 📂 Projets
 
+### 🏢 [Agence d'Intérim](https://github.com/sysyhera-spec/bdd-agence-interim) — Conception et implémentation d'une base de données
+Modélisation relationnelle complète (MCD/MLD) normalisée en 3NF, requêtes SQL avancées, triggers et procédures stockées pour la gestion des contraintes métier.
+`MySQL` `MySQL Workbench` `Modélisation relationnelle`
+
+### 💬 [Messagerie Instantanée](https://github.com/MinaaKarimiaan/Projet-Java-Maven) — Application client-serveur
+Système de messagerie en Java avec communication 1-to-1 et de groupe via sockets TCP. Envoi de fichiers binaires, notification de lecture, nickname/avatar, historique consultable.
+`Java` `Sockets TCP` `Apache Derby` `Maven` `Git`
+
 ### ✈️ [Trip Planner](https://github.com/sysyhera-spec/trip-planner-laravel) — Application web de planification de voyages
 Application web full stack développée avec Laravel permettant de créer et organiser des voyages avec destinations, activités, hébergements et transports. Calcul dynamique du coût total.
-`PHP` `Laravel` `SQLite` `Blade` `MVC`
+`PHP` `Laravel` `SQLite` `Blade` `MVC` `Git`
 
 ### 🎭 [MiART-Fest Manager](https://github.com/sysyhera-spec/festival-artistique-java) — Gestion d'un festival artistique itinérant
 Système logiciel complet conçu en génie logiciel avec modélisation UML et implémentation Java.
