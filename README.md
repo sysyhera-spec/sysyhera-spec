@@ -1,6 +1,6 @@
 # Bonjour, moi c'est Sylvia 👋
 
-Développeuse Fullstack en fin de Master 2 MIASHS à l'Université Grenoble Alpes, je recherche un **stage de fin d'études (4 mois minimum, à partir de mai 2026)**.
+Développeuse Fullstack en fin de Master 2 MIASHS à l'Université Grenoble Alpes, je recherche un **stage de fin d'études (4 mois minimum)**.
 
 Forte de 7 ans d'expérience professionnelle dans la gestion et l'analyse de données au sein d'organisations internationales, j'aborde le développement avec une vision à la fois technique et fonctionnelle.
 
